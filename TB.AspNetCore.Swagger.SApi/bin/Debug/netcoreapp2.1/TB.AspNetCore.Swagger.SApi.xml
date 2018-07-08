@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TB.AspNetCore.Swagger.SApi</name>
+    </assembly>
+    <members>
+        <member name="M:TB.AspNetCore.Swagger.SApi.Controllers.OrderController.QueryOrder(System.String,System.String)">
+            <summary>
+            查询订单
+            </summary>
+            <param name="orderCode">订单号</param>
+            <param name="orderName">订单名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:TB.AspNetCore.Swagger.SApi.Controllers.OrderController.SubOrder(TB.AspNetCore.Swagger.SApi.Controllers.OrderModel)">
+            <summary>
+            提交订单
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="P:TB.AspNetCore.Swagger.SApi.Controllers.OrderModel.OrderCode">
+            <summary>
+            订单号
+            </summary>
+        </member>
+        <member name="P:TB.AspNetCore.Swagger.SApi.Controllers.OrderModel.OrderAmount">
+            <summary>
+            订单金额
+            </summary>
+        </member>
+        <member name="P:TB.AspNetCore.Swagger.SApi.Controllers.OrderModel.OrderType">
+            <summary>
+            订单类型
+            <Remark>
+            0 商家入驻
+            1 线下交易
+            </Remark>
+            </summary>
+        </member>
+        <member name="T:TB.AspNetCore.Swagger.SApi.Controllers.OrderTypeInfo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:TB.AspNetCore.Swagger.SApi.Controllers.OrderTypeInfo.StoreEntry">
+            <summary>
+            商家入驻
+            </summary>
+        </member>
+        <member name="F:TB.AspNetCore.Swagger.SApi.Controllers.OrderTypeInfo.StoreTrade">
+            <summary>
+            线下交易
+            </summary>
+        </member>
+        <member name="M:TB.AspNetCore.Swagger.SApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.AspNetCore.Mvc.ApiExplorer.IApiVersionDescriptionProvider)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+            <param name="provider">api版本描述provider</param>
+        </member>
+        <member name="T:TB.AspNetCore.Swagger.SApi.SwaggerDefaultValues">
+            <summary>
+            Represents the Swagger/Swashbuckle operation filter used to document the implicit API version parameter.
+            </summary>
+            <remarks>This <see cref="T:Swashbuckle.AspNetCore.SwaggerGen.IOperationFilter"/> is only required due to bugs in the <see cref="T:Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator"/>.
+            Once they are fixed and published, this class can be removed.</remarks>
+        </member>
+        <member name="M:TB.AspNetCore.Swagger.SApi.SwaggerDefaultValues.Apply(Swashbuckle.AspNetCore.Swagger.Operation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            Applies the filter to the specified operation using the given context.
+            </summary>
+            <param name="operation">The operation to apply the filter to.</param>
+            <param name="context">The current operation filter context.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.deps.json
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.runtimeconfig.json
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.runtimeconfig.dev.json
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.dll
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.csprojAssemblyReference.cache
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.csproj.CoreCompileInputs.cache
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.RazorAssemblyInfo.cache
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.RazorAssemblyInfo.cs
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.AssemblyInfoInputs.cache
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.AssemblyInfo.cs
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.RazorTargetAssemblyInfo.cache
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.xml
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\bin\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.pdb
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.dll
+E:\TB.AspNetCore.Swagger\TB.AspNetCore.Swagger.SApi\obj\Debug\netcoreapp2.1\TB.AspNetCore.Swagger.SApi.pdb
